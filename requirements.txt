@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+torch
+ipykernel
+# sikit-learn
