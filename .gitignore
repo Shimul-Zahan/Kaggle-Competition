@@ -171,3 +171,8 @@ cython_debug/
 .pypirc
 \Digit_Recognizer\data
 \kaggle_env
+# Ignore all data folders
+Data/
+*/Data/
+data/
+*/data
